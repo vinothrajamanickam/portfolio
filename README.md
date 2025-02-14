@@ -28,6 +28,7 @@ In this section I will list all projects briefly describing the technology.
 ### Data Minning
 
 **Goal:** Search and download the perticular file and convert those details into Excel sheets.
+
 **Image:** [`Show`](https://github.com/vinothrajamanickam/portfolio/blob/main/IMG-20221102-WA0004.jpg)
 
 **Description:** Search perticuler image contains a list of drinks data. The image include the products details (Name, price, quantity). The project includes the following steps: data minning and data typing.
@@ -36,11 +37,11 @@ In this section I will list all projects briefly describing the technology.
 
 **Technology:** Internet, Excel, PDF, Image Viewer.
 
+
 ### OCR Cleanup and Data Tagging
 **File PDF:** [`Show`](https://github.com/vinothrajamanickam/portfolio/blob/main/i1662687-00324.jpg)
 
 **Description:** The PDF file contains a list of Names that have some details (First name, Last name, Date). This project includes the following steps: Data cleaning and Tagging.
-
 
 **Skills:** Navigating in softwares, Tagging, Typing.
 
@@ -53,8 +54,8 @@ In this section I will list all projects briefly describing the technology.
 **Description:** The image contains records of Oil and Gas company details. This project includes the following steps: Image loading, data typing and processing.
 
 **Skills:** Navigating, Typing.
-**Technology:** Excel, PDF, Typing.
 
+**Technology:** Excel, PDF, Typing.
 
 
 ## Logo Designing Projects
