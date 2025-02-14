@@ -6,9 +6,9 @@ I’m highly skilled in SQL, Excel, and Python, and I’ve used these tools exte
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf]().
+My CV in [pdf](https://github.com/vinothrajamanickam/portfolio/blob/main/Data%20Analyst%20Resume.pdf).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Freelance related topics.
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
