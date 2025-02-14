@@ -93,7 +93,7 @@ Bachelor's of Computer Science
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Data Analytics](https://github.com/vinothrajamanickam/portfolio/blob/main/VINOTH%20R.pdf) (Jan 2025) (NoviTech)
+- [Data Analytics - Intern](https://github.com/vinothrajamanickam/portfolio/blob/main/VINOTH%20R.pdf) (Jan 2025) (NoviTech)
 
 
 ## Contacts
