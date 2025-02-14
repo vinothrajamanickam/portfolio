@@ -1,4 +1,4 @@
-# Vinoth Rajamanickam - Data Analyst Portfolio
+# Vinoth Rajamanickam - Portfolio
 ## About
 Hello, I,m Vinoth, and I have a strong background in data analysis, with a degree in Computer Science. Over the past year, I have worked on multiple data analysis projects, both in freelancing and in intern.
 
