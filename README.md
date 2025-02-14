@@ -1,8 +1,8 @@
 # Vinoth Rajamanickam - Data Analyst Portfolio
 ## About
-Hi, I'm Vinoth! I have an analytical background in Computer science. I am excited to bring my technical and analytical skills to the field of data analyst as an entry-level data specialist. 
+Hello, I,m Vinoth, and I have a strong background in data analysis, with a degree in Computer Science. Over the past year, I have worked on multiple data analysis projects, both in freelancing and in intern.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I’m highly skilled in SQL, Excel, and Python, and I’ve used these tools extensively to clean, process, and analyze large datasets. I also have experience with data visualization tools like Tableau and Power BI, which I use to create reports and dashboards that communicate insights effectively.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
